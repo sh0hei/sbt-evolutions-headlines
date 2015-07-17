@@ -16,3 +16,13 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 
+# IntelliJ IDEA specific
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+# Mac OS X specific
+.DS_Store
+
